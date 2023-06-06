@@ -17,5 +17,5 @@ Transform micro-service(app) to support multiple tenant
 + 4.Special handling
 
 > eg:
-1. CronTasks in your app, you need split cronTask by different tenant
-2. The initialization process of application startup, You need to initialize it for different tenants
+> 1. CronTasks in your app, you need split cronTask by different tenant
+> 2. The initialization process of application startup, You need to initialize it for different tenants
